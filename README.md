@@ -27,7 +27,7 @@ Whatsapp Web is constantly changing so this library is very susceptible to break
 ## Installation
 
 ```bash
-pip install whatsapp-bot
+pip install whatsappbot
 ```
 
 ## Quick Start
