@@ -26,8 +26,9 @@ Whatsapp Web is constantly changing so this library is very susceptible to break
 
 ## Installation
 
+The following will work at some point, I'm currently working on getting the pypi name rights from an abandoned project.
 ```bash
-pip install whatsapp-bot
+pip install whatsappbot
 ```
 
 ## Quick Start
