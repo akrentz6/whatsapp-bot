@@ -1,6 +1,6 @@
 # WhatsappBot
 
-`WhatsappBot` is an event-based Python package that provides a Selenium wrapper for automating WhatsApp Web workflows. It allows you to interact with WhatsApp Web to send and receive messages, search chats, and more.
+`whatsappbot` is an event-based Python package that provides a Selenium wrapper for automating WhatsApp Web workflows. It allows you to interact with WhatsApp Web to send and receive messages, search chats, and more.
 
 Whatsapp Web is constantly changing so this library is very susceptible to breaking and bugs. I'll do my best to fix these as soon as possible. Also, expect much more functionality in future updates.
 
