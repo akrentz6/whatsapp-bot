@@ -31,6 +31,11 @@ The following will work at some point, I'm currently working on getting the pypi
 pip install whatsappbot
 ```
 
+For now, you can do:
+```bash
+pip install -i https://test.pypi.org/simple/ whatsapp-bot==0.0.1
+```
+
 ## Quick Start
 
 See the examples folder for more.
